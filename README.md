@@ -55,3 +55,5 @@ This group requires targeted marketing strategies to re-engage them. Tailored ad
 This cluster includes customers who have not made a purchase for a long time and whose spending is minimal. They may have shown some interest recently but have yet to establish a significant purchasing history.
 
 These customers need a strategic approach to regain their interest and trust in the e-commerce platform. Efforts could include engaging content, educational resources about products, and introductory offers to encourage their first significant purchases. It's important to identify reasons for their inactivity, whether it's related to pricing, product availability, or competition, and address those concerns proactively.
+
+![Image](Image.png)
